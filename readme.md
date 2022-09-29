@@ -5,7 +5,7 @@
 
 ---
 
- ## project  [link](https://app.netlify.com/sites/paytm-clone001/settings/domain)
+ ## project  [link](https://shopify-clone001.netlify.app/)
 
 
  **Skills gained** through this project
