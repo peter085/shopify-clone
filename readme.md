@@ -1,7 +1,7 @@
  
  # Assignment-16
 
- ## Paytm clone
+ ## shopify clone
 
 ---
 
